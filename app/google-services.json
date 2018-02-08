@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "24119475570",
+    "firebase_url": "https://gmpl-c4c5c.firebaseio.com",
+    "project_id": "gmpl-c4c5c",
+    "storage_bucket": "gmpl-c4c5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24119475570:android:06628193e59ca606",
+        "android_client_info": {
+          "package_name": "cybernetics.hellaecu.pvpl.com.gmpl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24119475570-2i1gf2bqgvi564pg9nvko7a9jfer8taa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cybernetics.hellaecu.pvpl.com.gmpl",
+            "certificate_hash": "4cc931f3e8fc20e3e1eb9e9223add408a7ce7f82"
+          }
+        },
+        {
+          "client_id": "24119475570-1801284q3emil75gim4jmfp4hicig9qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaXVt0AakJjMXbpnrsVKMi0vG7SQ0VV1s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24119475570-1801284q3emil75gim4jmfp4hicig9qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
